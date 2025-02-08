@@ -11,13 +11,13 @@ ViewSonic
 ## Requirement
 
 1. Environment and Technology Stack
-    a. Languages & Frameworks: Kotlin, Coroutine, Flow
-    b. Minimum SDK: Android 9.0
-    c. Target SDK: Android 152.
+    - Languages & Frameworks: Kotlin, Coroutine, Flow
+    - Minimum SDK: Android 9.0
+    - Target SDK: Android 15
 2. Allows interface language switching without requiring an app restart
-    - Support for two languages: English and Mandarin Chinese.3.
-3. The digital clock should update in real-time, following the refresh rate set by the user.4.
-4. The app should have two main pages: the Times Page and the Settings Page, which can benavigated by using the BottomNavigation.
+    - Support for two languages: English and Mandarin Chinese.
+3. The digital clock should update in real-time, following the refresh rate set by the user.
+4. The app should have two main pages: the Times Page and the Settings Page, which can be navigated by using the BottomNavigation.
 5. Functionality of pages:
     - Times
         ![alt text](image/image.png)
@@ -25,11 +25,11 @@ ViewSonic
         - There should be radio buttons to adjust the refresh rate for digital clocks.
         - Display the time for different countries in a two-column scrollable grid layout
         - If the list has not been retrieved and no digital clocks are available, show “No data” atthe center of the screen.
-        - Users can click on any digital clock to display it as a floating window that overlaysother apps and can be dragged.
+        - Users can click on any digital clock to display it as a floating window that overlays other apps and can be dragged.
          ![alt text](image/image-1.png)
 
         Bonus :
-        Try to keep the floating digital clock window alive even after the userremoves your Android app from the recent apps list.
+        Try to keep the floating digital clock window alive even after the user removes your Android app from the recent apps list.
         - Implement any business logic you find appropriate based on the UI wireframe.
     - Setting
         ![alt text](image/image-2.png)

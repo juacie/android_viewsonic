@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewSonic Android Assignment</string>
+    <string name="text_times">時間</string>
+    <string name="text_setting">設定</string>
+    <string name="text_add">新增</string>
+    <string name="text_edit">編輯</string>
+    <string name="text_delete">刪除</string>
+    <string name="text_cancel">取消</string>
+    <string name="text_ok">同意</string>
+    <string name="text_refresh_rate">更新頻率</string>
+    <string name="text_min">分</string>
+    <string name="text_no_data">無資料</string>
+    <string name="text_language">語言</string>
+    <string name="dialog_message_display_as_floating_window">你想將該數位時鐘顯示為浮動視窗嗎?</string>
+
+</resources>

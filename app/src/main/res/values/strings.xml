@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ViewSonic Android Assignment</string>
+
+    <string name="text_times">Times</string>
+    <string name="text_setting">Setting</string>
+    <string name="text_add">Add</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_ok">OK</string>
+    
+    <string name="text_refresh_rate">Refresh Rate</string>
+    <string name="text_min">min</string>
+    <string name="text_no_data">No Data</string>
+    <string name="text_language">Language</string>
+
+    <string name="dialog_message_display_as_floating_window">Do you want to display this digital clock as a floating window?</string>
+</resources>
