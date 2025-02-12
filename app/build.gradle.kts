@@ -76,6 +76,12 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.retrofitGson)
     implementation(libs.okhttp)
+
+    //inject
+    implementation(libs.koin)
+    implementation(libs.koin.compose)
+
+    //navigation
     implementation(libs.androidx.navigation.compose)
     //material
 //    implementation(libs.material)
